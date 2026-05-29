@@ -193,4 +193,9 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 venv/
-de
+
+# Borgis — arquivos gerados / sensíveis
+vectorstore/
+staticfiles/
+media/
+*.pdf
