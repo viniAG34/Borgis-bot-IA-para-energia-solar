@@ -25,6 +25,8 @@ Borgis é um assistente virtual especializado em energia solar fotovoltaica, con
 
 O Borgis transforma um guia técnico de energia solar (PDF) em uma base de conhecimento vetorial consultável. Quando um usuário faz uma pergunta, o sistema recupera os trechos mais relevantes do documento e os envia ao LLM junto com a pergunta, produzindo respostas precisas e contextualizadas. As respostas chegam ao usuário em streaming token a token, criando uma experiência fluida e interativa.
 
+<img width="1148" height="883" alt="image" src="https://github.com/user-attachments/assets/974168a8-1a45-444b-8f80-1a143cf59a35" />
+
 ---
 
 ## Funcionalidades
